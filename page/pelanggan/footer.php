@@ -5,7 +5,7 @@
     <div class="left">
         <div class="logo-navbar">
             <div class="logo"><img src="assets/img/logo.png" alt="logo"></div>
-            <div><h3>T-SHOES</h3><p>store</p></div>
+            <div><h3>Toko SHOES</h3><p>store</p></div>
         </div>
         <div class="footer-links">
             <a href="index.html">Home</a>
