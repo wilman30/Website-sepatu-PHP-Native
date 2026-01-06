@@ -13,7 +13,7 @@
             <a href="index.html#about">About</a>
             <a href="index.html#contact">contact</a>
         </div>
-        <span class="copy">&copy; 2022 gblk TEAM.</span>
+        <span class="copy">&copy; </span>
     </div>
     <div class="center">
         <h2>Contact</h2>
