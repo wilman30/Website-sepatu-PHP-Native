@@ -662,7 +662,7 @@ nav > div span:hover::before {
   margin-right: -20px;
   margin-top: 7px;
   transform: rotate(30deg);
-  text-size: !important;
+  text-size: important;
   border-radius: 10px 40px 0 40px;
   background-color: white;
   color: var(--warna-utama);

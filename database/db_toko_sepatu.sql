@@ -630,7 +630,7 @@ CREATE TABLE `tb_users` (
 --
 
 INSERT INTO `tb_users` (`id_user`, `nama`, `username`, `password`, `alamat`, `email`, `no_telp`) VALUES
-('ADM001', 'Abdul Wakhid', 'admin', 'admin', 'Jl. Bahagia No. 444', 'abdwkhd@example.com', '091234567897'),
+('ADM001', 'WILMAN', 'admin', 'admin', 'Jl. Bahagia No. 444', 'abdwkhd@example.com', '091234567897'),
 ('PLG001', 'Anitaaa', 'anita01', '12345', 'Jl. Merdeka No. 10, Jakarta', 'anita01@example.com', '081234567891'),
 ('PLG002', 'Budi', 'budi02', 'password2', 'Jl. Raya Surabaya No. 5, Surabaya', 'budi02@example.com', '081234567892'),
 ('PLG003', 'Citra', 'citra03', 'password3', 'Jl. Cikutra Indah No. 15, Bandung', 'citra03@example.com', '081234567893'),
